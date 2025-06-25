@@ -1,22 +1,35 @@
 # Awesome-BFM-Papers
-A curated list of behavioral foundation model (BFM) papers, articles, tutorials, slides and projects.
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/yuanmingqi/awesome-bfm-papers) 
+
+A curated list of behavior(al) foundation model (BFM) papers, articles, tutorials, slides, and projects.
 
 
-# What is Behavioral Foundation Model?
+# What is the Behavior Foundation Model?
 
 
 # Paper List
 
-## Supervised Pre-training
-### Tracking-based Learning
-### Goal-conditioned Learning
-
-## Unsupervised Pre-training
-### Intrinsic Reward-driven Learning
+## Pre-training
 ### Forward-back Representation Learning
 
-## Semi-supervised Pre-training
-### 
+### Goal-conditioned Learning
+#### 2025
+
+Ase: Large-scale reusable adversarial skill embeddings for physically simulated characters 
+
+| **TOG** | [[Paper]()] | [[Code]()]
+
+<br>
+
+Ase: Large-scale reusable adversarial skill embeddings for physically simulated characters
+
+
+### Intrinsic Reward-driven Learning
+
+## Adaptation
+### Fine-tuning Techniques
+### Towards Hierarchical Control
 
 # Cite Us
 If this project helped your work, please cite us by
