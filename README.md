@@ -1,6 +1,6 @@
 # Awesome-BFM-Papers
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/yuanmingqi/awesome-bfm-papers) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/yuanmingqi/awesome-bfm-papers) <a href="https://arxiv.org/pdf/2506.20487"><img src="https://img.shields.io/badge/Paper-arXiv-b31b1b" alt="Paper"></a> 
 
 A curated list of behavior(al) foundation model (BFM) papers, articles, tutorials, slides, and projects.
 
