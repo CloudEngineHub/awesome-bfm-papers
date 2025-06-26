@@ -21,7 +21,7 @@ A curated list of behavior(al) foundation model (BFM) papers, articles, tutorial
 
 <div align=center>
 <br>
-<img src='./assets/preface.png' style="width: 70%">
+<img src='./assets/preface.png' style="width: 90%">
 <br>
 </div>
 
