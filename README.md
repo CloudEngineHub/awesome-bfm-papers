@@ -40,6 +40,8 @@ A behavior foundation model learns **broad behavior priors** from **large-scale 
 |  2025 	|   **ICLR**  	|          Zero-shot Whole-body Humanoid Control via Behavioral Foundation Models         	|                 [Paper](https://arxiv.org/abs/2504.11054)                 	| [Code](https://github.com/facebookresearch/metamotivo) 	|
 |  2024 	|  **arXiv**  	| Finer Behavioral Foundation Models via Auto-regressive Features and Advantage Weighting 	| [Paper](https://arxiv.org/abs/2412.04368) 	| N/A 	|
 |  2024 	| **NeurIPS** 	|                      Fast Imitation via Behavior Foundation Models                      	|                 [Paper](https://openreview.net/pdf?id=qnWtw3l0jb)                 	| N/A 	|
+|  2021 	| **NeurIPS** 	|                      Learning One Representation to Optimize All Rewards |  [Paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/003dd617c12d444ff9c80f717c3fa982-Paper.pdf)                 	| [Code](https://github.com/ahmed-touati/controllable_agent) 	|
+|2021|  **arXiv** |Learning Successor States and Goal-Dependent Values: A Mathematical Viewpoint|                 [Paper](https://arxiv.org/pdf/2101.07123)                 	| N/A 	|
 
 ### Goal-conditioned Learning
 
@@ -63,7 +65,7 @@ A behavior foundation model learns **broad behavior priors** from **large-scale 
 
 | 📅Year 	| 🗃️Archive 	|                                   🔤Title                                  	|                   📜Paper                  	|   🖥️Code  	|
 |:-----:	|:--------:	|:-------------------------------------------------------------------------:	|:-----------------------------------------:	|:--------:	|
-|  2021 	| **ICML** 	|                 Active Pretraining with Successor Features                	| [Paper](https://arxiv.org/abs/2106.14910) 	| N/A 	|
+|  2021 	| **ICML** 	|                 Active Pretraining with Successor Features                	| [Paper](https://arxiv.org/abs/2106.14910) 	| [Code](https://github.com/rll-research/url_benchmark) 	|
 |  2021 	| **ICML** 	|          Reinforcement Learning with Prototypical Representations         	| [Paper](https://arxiv.org/abs/2103.01975) 	| [Code](https://github.com/denisyarats/proto) 	|
 |  2020 	| **ICML** 	| State Entropy Maximization with Random Encoders for Efficient Exploration 	| [Paper](https://arxiv.org/abs/2102.05561) 	| [Code](https://github.com/younggyoseo/RE3) 	|
 |  2019 	| **ICLR** 	|                 Exploration by Random Network Distillation                	| [Paper](https://arxiv.org/abs/1810.12894) 	| [Code](https://github.com/openai/random-network-distillation) 	|
