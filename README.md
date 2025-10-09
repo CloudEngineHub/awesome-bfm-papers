@@ -49,6 +49,7 @@ A behavior foundation model learns **broad behavior priors** from **large-scale 
 
 | 📅Year 	|       🗃️Archive       	|                                            🔤Title                                            	|                   📜Paper                  	|   🖥️Code  	|
 |:-----:	|:--------------------:	|:--------------------------------------------------------------------------------------------:	|:-----------------------------------------:	|:--------:	|
+|  2025 	|       **arXiv**      	|                       Behavior Foundation Model for Humanoid Robots                      	| [Paper](https://arxiv.org/pdf/2509.13780) 	| [Code](https://bfm4humanoid.github.io/) 	|
 |  2025 	|       **ICRA**       	|               HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots              	|                 [Paper](https://arxiv.org/abs/2410.21229)                 	| [Code](https://github.com/NVlabs/HOVER/) 	|
 |  2025 	|       **CVPR**       	| InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions 	|                 [Paper](https://arxiv.org/abs/2502.20390)                 	| [Code](https://github.com/Sirui-Xu/InterMimic) 	|
 |  2025 	|       **arXiv**      	|                       ModSkill: Physical Character Skill Modularization                      	| [Paper](https://arxiv.org/abs/2502.14140) 	| [Code]() 	|
