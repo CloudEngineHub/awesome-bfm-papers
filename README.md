@@ -44,7 +44,7 @@ An overview of the pre-training pipelines and adaptation strategies for BFMs dis
 
 ### Forward-backward Representation Learning
 
-| Year 	|   ️Archive  	|                                          Title                                         	|                   Paper                  	|   ️Code  	|
+| 📅Year 	|   🗃️Archive  	|                                          🔤Title                                         	|                   📜Paper                  	|🖥️Code  	|
 |:-----:	|:-----------:	|:---------------------------------------------------------------------------------------:	|:-----------------------------------------:	|:--------:	|
 |  2025 	|   **arXiv**  	|           BFM-Zero: Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning        	|                 [Paper](https://arxiv.org/abs/2511.04131)                 	| [Code](https://github.com/LeCAR-Lab/BFM-Zero) 	|
 |  2025 	|   **ICLR**  	|          Zero-shot Whole-body Humanoid Control via Behavioral Foundation Models         	|                 [Paper](https://arxiv.org/abs/2504.11054)                 	| [Code](https://github.com/facebookresearch/metamotivo) 	|
@@ -56,7 +56,7 @@ An overview of the pre-training pipelines and adaptation strategies for BFMs dis
 ### Goal-conditioned Learning
 
 
-| Year 	|       ️Archive       	|                                            Title                                            	|                   Paper                  	|   ️Code  	|
+| 📅Year 	|   🗃️Archive  	|                                          🔤Title                                         	|                   📜Paper                  	|🖥️Code  	|
 |:-----:	|:--------------------:	|:--------------------------------------------------------------------------------------------:	|:-----------------------------------------:	|:--------:	|
 |  2025 	|       **arXiv**      	|                      Sonic: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control                      	| [Paper](https://arxiv.org/abs/2511.07820) 	| [Code](https://nvlabs.github.io/SONIC/) 	|
 |  2025 	|       **arXiv**      	|                      Track Any Motions under Any Disturbances                      	| [Paper](https://arxiv.org/abs/2509.13833) 	| [Code](https://github.com/GalaxyGeneralRobotics/OpenTrack) 	|
@@ -81,7 +81,7 @@ An overview of the pre-training pipelines and adaptation strategies for BFMs dis
 
 ### Intrinsic Reward-driven Learning
 
-| Year 	| ️Archive 	|                                   Title                                  	|                   Paper                  	|   ️Code  	|
+| 📅Year 	|   🗃️Archive  	|                                          🔤Title                                         	|                   📜Paper                  	|🖥️Code  	|
 |:-----:	|:--------:	|:-------------------------------------------------------------------------:	|:-----------------------------------------:	|:--------:	|
 |  2021 	| **ICML** 	|                 Active Pretraining with Successor Features                	| [Paper](https://arxiv.org/abs/2106.14910) 	| [Code](https://github.com/rll-research/url_benchmark) 	|
 |  2021 	| **ICML** 	|          Reinforcement Learning with Prototypical Representations         	| [Paper](https://arxiv.org/abs/2103.01975) 	| [Code](https://github.com/denisyarats/proto) 	|
@@ -93,7 +93,7 @@ An overview of the pre-training pipelines and adaptation strategies for BFMs dis
 ### Fine-tuning Techniques
 
 
-| Year 	|  ️Archive 	|                                  Title                                 	|   Paper  	|   ️Code  	|
+| 📅Year 	|   🗃️Archive  	|                                          🔤Title                                         	|                   📜Paper                  	|🖥️Code  	|
 |:-----:	|:---------:	|:-----------------------------------------------------------------------:	|:---------:	|:--------:	|
 |  2025 	| **arXiv** 	| Task Tokens: A Flexible Approach to Adapting Behavior Foundation Models 	| [Paper](https://arxiv.org/abs/2503.22886) 	| N/A	|
 |  2025 	| **arXiv** 	| Zero-Shot Adaptation of Behavioral Foundation Models to Unseen Dynamics 	| [Paper](https://arxiv.org/abs/2505.13150) 	| N/A	|
@@ -101,7 +101,7 @@ An overview of the pre-training pipelines and adaptation strategies for BFMs dis
 
 ### Towards Hierarchical Control
 
-| Year 	|  ️Archive 	|                                                Title                                               	|   Paper  	|   ️Code  	|
+| 📅Year 	|   🗃️Archive  	|                                          🔤Title                                         	|                   📜Paper                  	|🖥️Code  	|
 |:-----:	|:---------:	|:---------------------------------------------------------------------------------------------------:	|:---------:	|:--------:	|
 |  2025 	| **arXiv** 	|             SENTINEL: A Fully End-to-End Language-Action Model for Humanoid Whole Body Control             	| [Paper](https://arxiv.org/abs/2511.19236) 	| N/A 	|
 |  2025 	| **arXiv** 	|             BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion             	| [Paper](https://arxiv.org/abs/2508.08241) 	| [Code](https://github.com/HybridRobotics/whole_body_tracking) 	|
@@ -114,7 +114,7 @@ An overview of the pre-training pipelines and adaptation strategies for BFMs dis
 
 # Datasets
 
-| **Year** 	| **️Archive** 	| **Dataset** 	| **️Clip** 	| **⌚Hour** 	| **Paper** 	| **️Code** 	|
+| **📅Year** 	| **🗃️Archive** 	| **💽Dataset** 	| **🎞️Clip** 	| **⌚Hour** 	| **📜Paper** 	| **🖥️Code** 	|
 |:---------:	|:------------:	|:------------:	|:---------:	|:---------:	|:----------:	|:---------:	|
 |    2025   	|   **Humanoids**  	|  Humanoid-X  	|   163800  	|   240.0   	|  [Paper](https://arxiv.org/abs/2501.05098) 	|  [Code](https://github.com/sihengz02/UH-1) 	|
 |    2025   	|   **arXiv**  	|  PHUMA  	|   76000  	|   73.0    	|  [Paper](https://arxiv.org/abs/2510.26236) 	|  [Code](https://github.com/DAVIAN-Robotics/PHUMA) 	|
