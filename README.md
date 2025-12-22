@@ -133,8 +133,9 @@ If this project helped your work, please cite us by
 ``` bib
 @article{yuan2025bfm,
     title={A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots},
-    author={Yuan, Mingqi and Yu, Tao and Ge, Wenqi and Yao, Xiuyong and Li, Dapeng and Wang, Huijiang and Chen, Jiayu and Jin, Xin and Li, Bo and Chen, Hua and Zhang, Wei and Zeng, Wenjun},
-    journal={arXiv preprint arXiv:2506.20487},
-    year={2025}
+    author={Yuan, Mingqi and Yu, Tao and Ge, Wenqi and Yao, Xiuyong and Li, Dapeng and Wang, Huijiang and Chen, Jiayu and Li, Bo and Zhang, Wei and Zeng, Wenjun and Chen, Hua and Jin, Xin},
+    journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+    year={2025},
+    publisher={IEEE}
 }
 ```
