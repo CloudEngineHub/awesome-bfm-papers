@@ -46,7 +46,7 @@ An overview of the pre-training pipelines and adaptation strategies for BFMs dis
 
 | 📅Year 	|   🗃️Archive  	|                                          🔤Title                                         	|                   📜Paper                  	|🖥️Code  	|
 |:-----:	|:-----------:	|:---------------------------------------------------------------------------------------:	|:-----------------------------------------:	|:--------:	|
-|  2025 	|   **arXiv**  	|           BFM-Zero: Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning        	|                 [Paper](https://arxiv.org/abs/2511.04131)                 	| [Code](https://github.com/LeCAR-Lab/BFM-Zero) 	|
+|  2025 	|   **ICLR**  	|           BFM-Zero: Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning        	|                 [Paper](https://arxiv.org/abs/2511.04131)                 	| [Code](https://github.com/LeCAR-Lab/BFM-Zero) 	|
 |  2025 	|   **ICLR**  	|          Zero-shot Whole-body Humanoid Control via Behavioral Foundation Models         	|                 [Paper](https://arxiv.org/abs/2504.11054)                 	| [Code](https://github.com/facebookresearch/metamotivo) 	|
 |  2024 	|  **arXiv**  	| Finer Behavioral Foundation Models via Auto-regressive Features and Advantage Weighting 	| [Paper](https://arxiv.org/abs/2412.04368) 	| N/A 	|
 |  2024 	| **NeurIPS** 	|                      Fast Imitation via Behavior Foundation Models                      	|                 [Paper](https://openreview.net/pdf?id=qnWtw3l0jb)                 	| N/A 	|
@@ -58,7 +58,8 @@ An overview of the pre-training pipelines and adaptation strategies for BFMs dis
 
 | 📅Year 	|   🗃️Archive  	|                                          🔤Title                                         	|                   📜Paper                  	|🖥️Code  	|
 |:-----:	|:--------------------:	|:--------------------------------------------------------------------------------------------:	|:-----------------------------------------:	|:--------:	|
-|  2026 	|       **arXiv**      	|                      Scaling Behavior Foundation Model for Humanoid Robots                      	| [Paper](https://arxiv.org/pdf/2607.15163) 	| [Code]([https://nvlabs.github.io/SONIC/](https://scalebfm.github.io/)) 	|
+|  2026 	|       **CoRL**      	|                     Perceptive Behavior Foundation Model Adapting Human Motion Priors to Robot-Centric Terrain                     	| [Paper](https://arxiv.org/pdf/2606.08059) 	| [Code](https://github.com/Mondo-Robotics/PMT) 	|
+|  2026 	|       **arXiv**      	|                      Scaling Behavior Foundation Model for Humanoid Robots                      	| [Paper](https://arxiv.org/pdf/2607.15163) 	| [Code](https://scalebfm.github.io/) 	|
 |  2025 	|       **arXiv**      	|                      Sonic: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control                      	| [Paper](https://arxiv.org/abs/2511.07820) 	| [Code](https://nvlabs.github.io/SONIC/) 	|
 |  2025 	|       **arXiv**      	|                      Track Any Motions under Any Disturbances                      	| [Paper](https://arxiv.org/abs/2509.13833) 	| [Code](https://github.com/GalaxyGeneralRobotics/OpenTrack) 	|
 |  2025 	|       **arXiv**      	|                      Agility Meets Stability: Versatile Humanoid Control with Heterogeneous Data                      	| [Paper](https://arxiv.org/abs/2511.17373) 	| [Code](https://github.com/OpenDriveLab/AMS) 	|
